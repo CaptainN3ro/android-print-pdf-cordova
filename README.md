@@ -1,4 +1,4 @@
-# Print PDF plugin for Cordova / PhoneGap now in landscape!
+# Print PDF plugin for Cordova / PhoneGap now!
 
 This plugin is a fork from: [sarahgoldman](https://github.com/sarahgoldman/cordova-print-pdf-plugin), modified to fit a specific use case.
 

@@ -1,0 +1,23 @@
+{
+  "name": "@schwarz.nicolas/android-print-pdf-cordova",
+  "version": "1.0.0",
+  "description": "Android Print PDF for Cordova based on cordova-print-pdf-plugin by Sarah Goldman",
+  "cordova": {
+    "id": "@schwarz.nicolas/android-print-pdf-cordova",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DaanPepping/cordova-print-pdf-plugin-landscape"
+  },
+  "keywords": [
+    "cordova",
+    "print",
+    "cordova-android",
+    "pdf"
+  ],
+  "author": "Nicolas Schwarz",
+  "license": "MIT"
+}
